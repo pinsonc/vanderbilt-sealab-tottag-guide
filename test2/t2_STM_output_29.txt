@@ -1,0 +1,224 @@
+sealab@sealab-Ubuntu:~$ telnet localhost 9200
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+SEGGER J-Link V6.51e (beta) - Real time terminal output
+SEGGER J-Link EDU V9.4, SN=269401690
+Process: JLinkExe
+
+----------------------------------------------
+INFO: Initialized RTT...
+INFO: Successfully loaded calibration values with EUI 41
+DEBUG: Calibration values are:
+DEBUG: 33119		32906		32981		
+DEBUG: 32921		32891		32896		
+DEBUG: 32876		32808		32932		
+INFO: Connecting to host interface...
+INFO: Op code 2: Config
+INFO: Initialized as HYBRID
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 41 ; RESP: 41 
+WARNING: LWB counter overshooting, currently at 100
+ERROR: Not in IDLE state, but in state 3
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 41 ; RESP: 41 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Received signalling packet: Schedule request for HYBRID
+INFO: Adjusted contention period from 1 to 2
+INFO: Sent LWB schedule - INIT: 41 38 ; RESP: 41 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Adjusted contention period from 2 to 1
+INFO: Sent LWB schedule - INIT: 41 38 ; RESP: 41 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 41 38 ; RESP: 41 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: 54592
+INFO: Sent LWB schedule - INIT: 41 38 ; RESP: 41 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 41 38 ; RESP: 41 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 41 38 ; RESP: 41 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 41 38 ; RESP: 41 38 
+12; Antenna 2 - 99
+26029
+INFO: Sent LWB schedule - INIT: 41 38 ; RESP: 41 38 
+
+----------------------------------------------
+INFO: Initialized RTT...
+INFO: Successfully loaded calibration values with EUI 41
+DEBUG: Calibration values are:
+DEBUG: 33119		32906		32981		
+DEBUG: 32921		32891		32896		
+DEBUG: 32876		32808		32932		
+INFO: Connecting to host interface...
+INFO: Op code 2: Config
+INFO: Initialized as HYBRID
+INFO: Scheduled nodes this round: I 2, R 2
+WARNING: Not in sync with Glossy master (yet); current counter: 10
+WARNING: Not in sync with Glossy master (yet); current counter: 20
+WARNING: Not in sync with Glossy master (yet); current counter: 30
+WARNING: Not in sync with Glossy master (yet); current counter: 40
+WARNING: Not in sync with Glossy master (yet); current counter: 50
+WARNING: Not in sync with Glossy master (yet); current counter: 60
+WARNING: Not in sync with Glossy master (yet); current counter: 70
+WARNING: Not in sync with Glossy master (yet); current counter: 80
+WARNING: Not in sync with Glossy master (yet); current counter: 90
+WARNING: Not in sync with Glossy master (yet); current counter: 100
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: 53690
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: -21323
+INFO: Disregard range: -30922
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+Connection closed by foreign host.
