@@ -1,5 +1,5 @@
 # SEALab Totternary Testing: 11-7-2019
-On 11-5 we were successfully able to get the devices outputting ranges into the debug setup in the lab. Today, I have returned to the lab to test the devices again to see if those results are reliably reproduceable with the current version of the code.
+On 11-5 we were successfully able to get the devices outputting ranges into the debug setup in the lab. Today, I have returned to the lab to test the devices again to see if those results are reliably reproducible with the current version of the code.
 
 ## Test 1
 ### Parameters
