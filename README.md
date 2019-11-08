@@ -73,5 +73,17 @@ Similar results to test 3 run 2. **Failed short test**
 
 ---
 
-## Next Steps
-One of the two nodes used in tests 3 and 4 might be functioning but the failed one could be messing up the whole output. So I think a good next step would be to test node 27 with 26 then 29. Then test node 2A with 26 then 29. Just to see if either of those are functioning.
+## Quick Takeaways from Tests 5-8
+Node 27 worked with the known operational nodes. Node 2A did not.
+### Test 5
+* [STM](test5/t5_STM_output_2A.txt)
+* [nRF](test5/t5_nRF_output_2A.txt)
+### Test 6
+* [STM](test6/t6_STM_output_2A.txt)
+* [nRF](test6/t6_nRF_output_2A.txt)
+### Test 7
+* [STM](test7/t7_STM_output_27.txt)
+* [nRF](test7/t7_nRF_output_27.txt)
+### Test 8
+* [STM](test8/t8_STM_output_27.txt)
+* [nRF](test8/t8_nRF_output_27.txt)

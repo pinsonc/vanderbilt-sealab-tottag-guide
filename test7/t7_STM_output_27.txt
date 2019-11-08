@@ -1,0 +1,230 @@
+----------------------------------------------
+INFO: Initialized RTT...
+INFO: Successfully loaded calibration values with EUI 39
+DEBUG: Calibration values are:
+DEBUG: 33072		32846		33084		
+DEBUG: 32956		32939		33012		
+DEBUG: 32979		32815		32918		
+INFO: Connecting to host interface...
+
+----------------------------------------------
+INFO: Initialized RTT...
+INFO: Successfully loaded calibration values with EUI 39
+DEBUG: Calibration values are:
+DEBUG: 33072		32846		33084		
+DEBUG: 32956		32939		33012		
+DEBUG: 32979		32815		32918		
+INFO: Connecting to host interface...
+INFO: Op code 2: Config
+INFO: Initialized as HYBRID
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 39 ; RESP: 39 
+WARNING: LWB counter overshooting, currently at 100
+ERROR: Not in IDLE state, but in state 3
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 39 ; RESP: 39 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 39 ; RESP: 39 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 39 ; RESP: 39 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 39 ; RESP: 39 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 39 ; RESP: 39 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Received signalling packet: Schedule request for HYBRID
+INFO: Adjusted contention period from 1 to 2
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Adjusted contention period from 2 to 1
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: -59471
+INFO: Disregard range: -57926
+INFO: Disregard range: -55938
+INFO: Disregard range: -54019
+INFO: Disregard range: -52393
+INFO: Disregard range: -50573
+INFO: Disregard range: -49341
+INFO: Disregard range: -48118
+INFO: Disregard range: -45839
+INFO: Disregard range: -43971
+INFO: Disregard range: -43156
+INFO: Disregard range: -41158
+INFO: Disregard range: -38983
+INFO: Disregard range: -37745
+INFO: Disregard range: -35766
+INFO: Disregard range: -34082
+INFO: Disregard range: -33267
+INFO: Disregard range: -31241
+INFO: Disregard range: -30319
+INFO: Disregard range: -28692
+INFO: Disregard range: -26699
+INFO: Disregard range: -24893
+INFO: Disregard range: -22976
+INFO: Disregard range: -21241
+INFO: Disregard range: -19699
+INFO: Disregard range: -18832
+INFO: Disregard range: -16801
+INFO: Disregard range: -99019
+INFO: Disregard range: -62214
+INFO: Disregard range: -12101
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: -24409
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 7; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Op code 9: Set Time
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Sent LWB schedule - INIT: 39 38 ; RESP: 39 38 
+INFO: Number of packets: Antenna 1 - 10; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+
+
