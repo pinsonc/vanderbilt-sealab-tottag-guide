@@ -81,7 +81,7 @@ Yeah it's just missing a space. But it will crash if you don't add it back in.
 ### Export Fix!
 
 On the lab Mac computer that is running Linux, it runs into an error when you run the `telnet` command in the debugger steps. To get rid of that, first run:
-```terminal
+```command
 locate libstdc++
 ```
 After that a big list of file paths should pop up. Find one ending in `libstdc++.so.6.0.22`. You can copy it by highlighting it and pressing `CTRL+SHIFT+C` or by pressing with two fingers on the trackpad.
