@@ -106,9 +106,33 @@ export LD_PRELOAD=/usr/local/MATLAB/R2019b/sys/os/glnxa64/libstdc++.so.6.0.22
 See the [tests](https://github.com/pinsonc/vanderbilt-sealab-tottag-guide/tree/master/tests) folder for example successful and failed tests. The README in that folder explains which ones succeed and fail and (for most of them) why.
 
 ## The Environment
-So as of writing, Fall 2019, we have a Macbook running Ubuntu that we have used to successfully flash and debug the devices. If, for some catastrophic reason, this laptop has been reappropriated or otherwise destroyed, worry not, as we can run a virtual machine.
+So as of writing, Fall 2019, we have a Macbook running Ubuntu that we have used to successfully flash and debug the devices. This makes it where it's basically plug and play for any flashing or debugging purposes. If, for some catastrophic reason, this laptop has been reappropriated or otherwise destroyed, worry not, as we can run a virtual machine.
 
 You can use the [Setup.md docs](https://github.com/lab11/totternary/blob/master/doc/Setup.md) to figure out how to set up a Ubuntu virtual machine to flash and debug the TotTags. If you have never used VirtualBox before, luckily, I am an operating systems TA, and have stolen [this document](/resources/VMsetup.docx) of how to set up a simple Ubuntu instance.
 
 ### J-Link driver updates
-You might need to get the [J-Link Software and Documentation pack for Linux, DEB installer, 64-bit](https://www.segger.com/downloads/jlink/#J-LinkSoftwareAndDocumentationPack) installed on your virtual machine to get JLinkExe commands working. It may also help if you are having trouble with flashing.
+You might need to get the [J-Link Software and Documentation pack for Linux, DEB installer, 64-bit](https://www.segger.com/downloads/jlink/#J-LinkSoftwareAndDocumentationPack) installed on your virtual machine to get JLinkExe commands working. It may also help if you are having trouble with flashing. This is the only extra thing you need from the Setup doc
+
+### Final Environment notes
+You only need:
+* Git (Source Control Tools)
+* GCC ARM (Getting the Compiler)
+
+To compile and flash the code.
+
+* Python (Getting Python)
+    * You will probably want this anyway since all of our proprietary code is written in it
+* Node (Getting Node)
+* Noble (Getting Noble)
+
+To calibrate the devices
+
+## Contact Information
+Good chance that, since we are no longer a member of the lab, we will have left or otherwise been removed from the relevant Slack channels. So
+
+* Conner Pinson: [pinsonconner@gmail.com](mailto:pinsonconner@gmail.com)
+* Vedant Gandhewar:
+
+Conner will be periodically available in the Spring 20 semester but then he will graduate. Vedant might be around a smidge longer since he is a junior.
+
+Contacting us should probably be done on the advice of Virginia. Say she thinks she's seen this issue before, odds are we know the answer. However, if it's a new issue, it's smarter to ask in the Lab11 Slack.
