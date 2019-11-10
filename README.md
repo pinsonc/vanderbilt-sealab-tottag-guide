@@ -18,7 +18,7 @@ There are three folders that we, as Vanderbilt SEALab RAs, particularly care abo
 /doc
 ```
 
-Basically, the `/software/.../node` contains the software that needs to be flashed onto the nRF and the `/software/module/firmware` contains the software that needs to be flashed onto the STM.
+Basically, the [`/software/.../node`](https://github.com/lab11/totternary/tree/master/software/carrier/apps/node) contains the software that needs to be flashed onto the nRF and the [`/software/module/firmware`](https://github.com/lab11/totternary/tree/master/software/module/firmware) contains the software that needs to be flashed onto the STM.
 
 ## The Lab11 Tottag Slack
 
@@ -30,19 +30,19 @@ I'm going to list off the people in the Slack so you can know what to expect fro
 
 ### External (current or former Lab11 at UC Berkeley)
 
-**Andreas Biri** (PhD @ ETH Zurich)
+**Andreas Biri** (PhD @ ETH Zurich) - the lead student on the Totternary project and the main point of contact for debugging. Not a bad idea to `@abiri` in front of each of your debugging messages to make sure he sees it. He is very nice and helpful and not judgemental so please ask him whatever you need!
 
-**Pat Pannuto** (Assistant Professor @ UCSD)
+**Pat Pannuto** (Assistant Professor @ UCSD) - wrote all the nicely detailed documentation in the `/doc` folder. He isn't as available as Andreas but will still chime in when he can.
 
-**Neal Jackson**
+**Neal Jackson** (PhD @ UC Berkeley) - current student at UCB focusing on low power embeedded devices. He's also working with the TotTags but he mostly chimes in with questions or improvement suggestions.
 
 ### Vanderbilt
 
-**Virginia Salo** (post-doc @ SEA Lab) You should know her.
+**Virginia Salo** (post-doc @ SEA Lab) - you should know her. She is your supervisor
 
-**Peter Volgyesi** (Researcher @ ISIS Vanderbilt)
+**Peter Volgyesi** (Researcher @ ISIS Vanderbilt) - he's worked with the TriPoint ranging system before and made some significant hardware debugs within a week of knowing about TotTag. He is super busy Fall 19 semester but will hopefully be able to be more involved next semester
 
-**Akos Ledeczi** (Researcher @ ISIS Vanderbilt)
+**Akos Ledeczi** (Researcher @ ISIS Vanderbilt) - point of contact at ISIS. Also super busy will hopefully be able to devote more of his lab resources to use next semester, Spring 20
 
 
 ## Flashing the Devices
@@ -50,6 +50,8 @@ I'm going to list off the people in the Slack so you can know what to expect fro
 Our good friend at Lab11 at UC Berkley [Pat](https://patpannuto.com/) has created a fantastic bit of documentation for exactly what we need to do to work on these devices. You can find flashing instructions at [`/doc/Provisioning.md`](https://github.com/lab11/totternary/blob/master/doc/Provisioning.md) on the Totternary Github. They have some fantastic photos and step-by-step instructions on how to flash the code to the nodes.
 
 **Some notes from Conner:** We have these little "feet" things that look like a green table with three metallic legs. You can use these to keep the cables on the nodes. If you are having trouble making those stick, you can absolutely just hold it (or have a lab friend hold it) and it will flash just fine. Also, if you lose them (we've lost two), you can just hold them on. The terminal will tell you if you aren't making enough of a connection and you can adjust.
+
+See [this video](https://drive.google.com/file/d/1fMS5uLZqrzqTmNVutyW-ul1PJMDI_INk/view?usp=sharing) for a video of Andreas taking the TotTags out of the cases and then putting them back in. This is necessary to flash them.
 
 This next section is taken directly from the [Glossary.md](https://github.com/lab11/totternary/blob/master/doc/Glossary.md#Hardware-Glossary) on the GitHub but we missed it and it caused issues so. The pictured thing is the little box guy that connects the JLink to the TotTag cable. Make **sure** this is correct when flashing AND debugging (discussed later).
 
@@ -69,6 +71,8 @@ At the [bottom of the Provisioning doc](https://github.com/lab11/totternary/blob
 PICTURE GOES HERE
 
 3. There's a small typo in one of the commands:
+
+The original
 ```
 JLinkExe -Device NRF52840_XXAA -if SWD -speed 4000 -RTTTelnetPort 9201-SelectEmuBySN XXXXXXXXX
 ```
@@ -77,6 +81,8 @@ should be
 JLinkExe -Device NRF52840_XXAA -if SWD -speed 4000 -RTTTelnetPort 9201 -SelectEmuBySN XXXXXXXXX
 ```
 Yeah it's just missing a space. But it will crash if you don't add it back in.
+
+The `XXXXXXXXX` should be replaced with the numbers labeled `S/N` on the J-Link Debugger boxes.
 
 ### Export Fix!
 
@@ -94,3 +100,15 @@ If it hasn't changed (which it shouldn't have unless someone has removed ibeat) 
 ```command
 export LD_PRELOAD=/usr/local/MATLAB/R2019b/sys/os/glnxa64/libstdc++.so.6.0.22
 ```
+
+### Example output
+
+See the [tests](https://github.com/pinsonc/vanderbilt-sealab-tottag-guide/tree/master/tests) folder for example successful and failed tests. The README in that folder explains which ones succeed and fail and (for most of them) why.
+
+## The Environment
+So as of writing, Fall 2019, we have a Macbook running Ubuntu that we have used to successfully flash and debug the devices. If, for some catastrophic reason, this laptop has been reappropriated or otherwise destroyed, worry not, as we can run a virtual machine.
+
+You can use the [Setup.md docs](https://github.com/lab11/totternary/blob/master/doc/Setup.md) to figure out how to set up a Ubuntu virtual machine to flash and debug the TotTags. If you have never used VirtualBox before, luckily, I am an operating systems TA, and have stolen [this document](/resources/VMsetup.docx) of how to set up a simple Ubuntu instance.
+
+### J-Link driver updates
+You might need to get the [J-Link Software and Documentation pack for Linux, DEB installer, 64-bit](https://www.segger.com/downloads/jlink/#J-LinkSoftwareAndDocumentationPack) installed on your virtual machine to get JLinkExe commands working. It may also help if you are having trouble with flashing.
