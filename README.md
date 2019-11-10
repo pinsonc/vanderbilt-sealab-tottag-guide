@@ -128,7 +128,7 @@ To compile and flash the code.
 To calibrate the devices
 
 ## Contact Information
-Good chance that, since we are no longer a member of the lab, we will have left or otherwise been removed from the relevant Slack channels. So
+Good chance that, since we are no longer members of the lab, we will have left or otherwise been removed from the relevant Slack channels. So
 
 * Conner Pinson: [pinsonconner@gmail.com](mailto:pinsonconner@gmail.com)
 * Vedant Gandhewar:
