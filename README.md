@@ -127,6 +127,12 @@ To compile and flash the code.
 
 To calibrate the devices
 
+## Analyzing the Data
+
+We have several scripts written in both Python and MATLAB that can take the raw output files from the TotTag devices and generate nice visual line and bar graphs.
+
+[Those can be found here.](https://github.com/pinsonc/EoEL-Study-Visualization) There is documentation on that GitHub for use cases and specifically how to use them. Feel free to branch that repo and make modifications and I will merge them if you want.
+
 ## Contact Information
 Good chance that, since we are no longer members of the lab, we will have left or otherwise been removed from the relevant Slack channels. So
 
