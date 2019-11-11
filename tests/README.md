@@ -134,3 +134,21 @@ Node 27 worked with the known operational nodes. Node 2A did not.
 
 # 11-11-2019
 
+Our tentative goal for these tests is to reflash `2A` and see if we can get it working.
+
+## Test 1
+
+### Parameters
+
+* Nodes 2A and 26
+* Code **was** reflashed onto only 2A
+* J-Link debuggers were connected to node 2A
+* J-Link `S/N: 260...` to the nRF, `S/N 269...` to the STM
+* Nodes were turned off and back on since last use
+
+### Debug output
+
+* [STM](11-11-2019/test1/t1_STM_output_2A.txt)
+* [nRF](11-11-2019/test1/t1_nRF_output_2A.txt)
+
+### Observations
