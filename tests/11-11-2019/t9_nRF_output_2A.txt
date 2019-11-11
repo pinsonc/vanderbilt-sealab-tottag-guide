@@ -1,0 +1,145 @@
+----------------------------------------------
+INFO: Initializing nRF...
+WARNING: Chip experienced a reset with reason 1
+INFO: Initialized software modules
+DEBUG: Bluetooth address: c0:98:e5:42:00:2a
+INFO: Initialized software services
+INFO: Initialized buses
+INFO: Time is 14:29:37, 2019/11/07
+INFO: Initialized hardware services
+INFO: Started scanning...
+INFO: Started broadcasting BLE advertisements...
+DEBUG: Discovered address: c0:98:e5:42:00:26
+INFO: Switched Master EUI from 00 to FF
+
+----------------------------------------------
+INFO: Initializing nRF...
+WARNING: Chip experienced a reset with reason 4
+INFO: Initialized software modules
+DEBUG: Bluetooth address: c0:98:e5:42:00:2a
+INFO: Initialized software services
+INFO: Initialized buses
+INFO: Time is 14:54:01, 2019/11/11
+INFO: Initialized hardware services
+INFO: Started scanning...
+INFO: Started broadcasting BLE advertisements...
+INFO: Discovered new node 38 without network
+DEBUG: Discovered address: c0:98:e5:42:00:26
+INFO: Switched Master EUI from 00 to 2A
+INFO: Finished initialization
+INFO: Waiting for discovery of other devices...
+INFO: Starting node
+INFO: Role - HYBRID Master
+INFO: Started the module...
+INFO: Interrupt with reason 3, changing master EUI to 255
+INFO: Switched Master EUI from 2A to FF
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+

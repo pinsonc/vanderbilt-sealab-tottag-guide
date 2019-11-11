@@ -1,0 +1,218 @@
+----------------------------------------------
+INFO: Initialized RTT...
+INFO: Successfully loaded calibration values with EUI 255
+DEBUG: Calibration values are:
+DEBUG: 0		0		0		
+DEBUG: 0		0		0		
+DEBUG: 0		0		0		
+INFO: Connecting to host interface...
+
+----------------------------------------------
+INFO: Initialized RTT...
+INFO: Successfully loaded calibration values with EUI 255
+DEBUG: Calibration values are:
+DEBUG: 0		0		0		
+DEBUG: 0		0		0		
+DEBUG: 0		0		0		
+INFO: Connecting to host interface...
+INFO: Op code 2: Config
+INFO: Initialized as HYBRID
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 255 ; RESP: 255 
+WARNING: LWB counter overshooting, currently at 100
+ERROR: Not in IDLE state, but in state 3
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 255 ; RESP: 255 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 255 ; RESP: 255 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Received signalling packet: Schedule request for HYBRID
+INFO: Adjusted contention period from 1 to 2
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: 77607
+INFO: Disregard range: 77120
+INFO: Disregard range: 77377
+INFO: Disregard range: 78164
+INFO: Disregard range: 77595
+INFO: Disregard range: 77889
+INFO: Disregard range: 77750
+INFO: Disregard range: 77097
+INFO: Disregard range: 77593
+INFO: Disregard range: 77593
+INFO: Disregard range: 77075
+INFO: Disregard range: 77444
+INFO: Disregard range: 77789
+INFO: Disregard range: 77642
+INFO: Disregard range: 78073
+INFO: Disregard range: 78227
+INFO: Disregard range: 77268
+INFO: Disregard range: 77741
+INFO: Disregard range: 77700
+INFO: Disregard range: 77534
+INFO: Disregard range: 77510
+INFO: Disregard range: 77697
+INFO: Disregard range: 77723
+INFO: Disregard range: 77759
+INFO: Disregard range: 77668
+INFO: Disregard range: 77455
+INFO: Disregard range: 77872
+INFO: Disregard range: 77594
+INFO: Disregard range: 77160
+INFO: Disregard range: 77350
+INFO: Adjusted contention period from 2 to 1
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: 77877
+INFO: Disregard range: 77308
+INFO: Disregard range: 77614
+INFO: Disregard range: 78309
+INFO: Disregard range: 77902
+INFO: Disregard range: 78118
+INFO: Disregard range: 78024
+INFO: Disregard range: 77419
+INFO: Disregard range: 77922
+INFO: Disregard range: 77906
+INFO: Disregard range: 77315
+INFO: Disregard range: 77729
+INFO: Disregard range: 78165
+INFO: Disregard range: 77880
+INFO: Disregard range: 78444
+INFO: Disregard range: 77765
+INFO: Disregard range: 77634
+INFO: Disregard range: 78076
+INFO: Disregard range: 77991
+INFO: Disregard range: 77893
+INFO: Disregard range: 77819
+INFO: Disregard range: 77961
+INFO: Disregard range: 77961
+INFO: Disregard range: 78056
+INFO: Disregard range: 77991
+INFO: Disregard range: 77724
+INFO: Disregard range: 78157
+INFO: Disregard range: 77904
+INFO: Disregard range: 77286
+INFO: Disregard range: 77608
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: 78123
+INFO: Disregard range: 77653
+INFO: Disregard range: 77851
+INFO: Disregard range: 59364
+INFO: Disregard range: 78501
+INFO: Disregard range: 78253
+INFO: Disregard range: 77734
+INFO: Disregard range: 78232
+INFO: Disregard range: 78167
+INFO: Disregard range: 77760
+INFO: Disregard range: 78071
+INFO: Disregard range: 78400
+INFO: Disregard range: 78209
+INFO: Disregard range: 78754
+INFO: Disregard range: 78759
+INFO: Disregard range: 77841
+INFO: Disregard range: 78236
+INFO: Disregard range: 78218
+INFO: Disregard range: 77577
+INFO: Disregard range: 78033
+INFO: Disregard range: 78174
+INFO: Disregard range: 78255
+INFO: Disregard range: 78354
+INFO: Disregard range: 78182
+INFO: Disregard range: 77930
+INFO: Disregard range: 78353
+INFO: Disregard range: 78143
+INFO: Disregard range: 77623
+INFO: Disregard range: 77861
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: 77709
+INFO: Disregard range: 77097
+INFO: Disregard range: 77350
+INFO: Disregard range: 78218
+INFO: Disregard range: 77663
+INFO: Disregard range: 77973
+INFO: Disregard range: 77736
+INFO: Disregard range: 77149
+INFO: Disregard range: 77665
+INFO: Disregard range: 77600
+INFO: Disregard range: 77093
+INFO: Disregard range: 77454
+INFO: Disregard range: 77838
+INFO: Disregard range: 77645
+INFO: Disregard range: 78179
+INFO: Disregard range: 77546
+INFO: Disregard range: 77311
+INFO: Disregard range: 77714
+INFO: Disregard range: 77731
+INFO: Disregard range: 77604
+INFO: Disregard range: 77454
+INFO: Disregard range: 77651
+INFO: Disregard range: 77715
+INFO: Disregard range: 77828
+INFO: Disregard range: 77705
+INFO: Disregard range: 77488
+INFO: Disregard range: 77896
+INFO: Disregard range: 77662
+INFO: Disregard range: 77107
+INFO: Disregard range: 77387
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: 77877
+INFO: Disregard range: 77325
+INFO: Disregard range: 77559
+INFO: Disregard range: 78300
+INFO: Disregard range: 77876
+INFO: Disregard range: 78129
+INFO: Disregard range: 77868
+INFO: Disregard range: 77389
+INFO: Disregard range: 77932
+INFO: Disregard range: 77858
+INFO: Disregard range: 77317
+INFO: Disregard range: 77720
+INFO: Disregard range: 78075
+INFO: Disregard range: 77932
+INFO: Disregard range: 78443
+INFO: Disregard range: 77753
+INFO: Disregard range: 77606
+INFO: Disregard range: 78014
+INFO: Disregard range: 77941
+INFO: Disregard range: 77752
+INFO: Disregard range: 77761
+INFO: Disregard range: 78000
+INFO: Disregard range: 77947
+INFO: Disregard range: 78092
+INFO: Disregard range: 77889
+INFO: Disregard range: 77737
+INFO: Disregard range: 78093
+INFO: Disregard range: 77844
+INFO: Disregard range: 77331
+INFO: Disregard range: 77586
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 0; Antenna 2 - 0; Antenna 3 - 0
+INFO: Sent LWB schedule - INIT: 255 38 ; RESP: 255 38 
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 26; First index: 0; last index: 29
+INFO: Disregard range: 78069
+INFO: Disregard range: 77512
+INFO: Disregard range: 77768
+INFO: Disregard range: 78489
+INFO: Disregard range: 78163
+INFO: Disregard range: 78349
+INFO: Disregard range: 78207
+
