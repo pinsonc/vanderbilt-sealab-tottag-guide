@@ -1,0 +1,560 @@
+----------------------------------------------
+INFO: Initializing nRF...
+WARNING: Chip experienced a reset with reason 1
+INFO: Initialized software modules
+DEBUG: Bluetooth address: c0:98:e5:42:00:29
+INFO: Initialized software services
+INFO: Initialized buses
+INFO: Time is 17:21:43, 2019/11/05
+INFO: Initialized hardware services
+INFO: Started scanning...
+INFO: Started broadcasting BLE advertisements...
+INFO: Finished initialization
+INFO: Waiting for discovery of other devices...
+INFO: Starting node
+
+----------------------------------------------
+INFO: Initializing nRF...
+WARNING: Chip experienced a reset with reason 4
+INFO: Initialized software modules
+DEBUG: Bluetooth address: c0:98:e5:42:00:29
+INFO: Initialized software services
+INFO: Initialized buses
+INFO: Time is 17:22:30, 2019/11/05
+INFO: Initialized hardware services
+INFO: Started scanning...
+INFO: Started broadcasting BLE advertisements...
+DEBUG: Discovered address: c0:98:e5:42:00:26
+INFO: Switched Master EUI from 00 to 26
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 817
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 870
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 892
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 819
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 856
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 775
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 835
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 701
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 860
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 646
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 785
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 837
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 760
+INFO: Updated current epoch time: 1571194956
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 815
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 803
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 896
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 822
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 800
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 878
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 838
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 1702
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 3, changing master EUI to 41
+INFO: Switched Master EUI from 26 to 29
+INFO: Interrupt with reason 3, changing master EUI to 41
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Distributing global timestamp 1571195003
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Distributing global timestamp 1571195063
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Distributing global timestamp 1571195123
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Distributing global timestamp 1571195183
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 3, changing master EUI to 0
+INFO: Switched Master EUI from 29 to 00
+INFO: Left the network... again searching for a new network
+INFO: Discovered new node 38 without network
+DEBUG: Discovered address: c0:98:e5:42:00:26
+INFO: Switched Master EUI from 00 to 29
+INFO: Starting node
+INFO: Role - HYBRID Master
+INFO: Started the module...
+INFO: Interrupt with reason 3, changing master EUI to 41
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Distributing global timestamp 1571195243
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 3, changing master EUI to 0
+INFO: Switched Master EUI from 29 to 00
+INFO: Left the network... again searching for a new network
+DEBUG: Discovered address: c0:98:e5:42:00:26
+INFO: Switched Master EUI from 00 to 29
+INFO: Starting node
+INFO: Role - HYBRID Master
+INFO: Started the module...
+INFO: Interrupt with reason 3, changing master EUI to 41
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 3, changing master EUI to 0
+INFO: Switched Master EUI from 29 to 00
+INFO: Left the network... again searching for a new network
+DEBUG: Discovered address: c0:98:e5:42:00:26
+INFO: Switched Master EUI from 00 to 29
+INFO: Starting node
+INFO: Role - HYBRID Master
+INFO: Started the module...
+INFO: Interrupt with reason 3, changing master EUI to 41
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Discovered new node 38 without network
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 3, changing master EUI to 0
+INFO: Switched Master EUI from 29 to 00
+INFO: Left the network... again searching for a new network
+INFO: Discovered new node 38 without network
+DEBUG: Discovered address: c0:98:e5:42:00:26
+INFO: Switched Master EUI from 00 to 29
+INFO: Starting node
+INFO: Role - HYBRID Master
+INFO: Started the module...
+INFO: Interrupt with reason 3, changing master EUI to 41
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 3, changing master EUI to 0
+INFO: Switched Master EUI from 29 to 00
+INFO: Left the network... again searching for a new network
+INFO: Discovered new node 38 without network
+DEBUG: Discovered address: c0:98:e5:42:00:26
+INFO: Switched Master EUI from 00 to 29
+INFO: Starting node
+INFO: Role - HYBRID Master
+INFO: Started the module...
+INFO: Interrupt with reason 3, changing master EUI to 41
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 719
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Distributing global timestamp 1571195363
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+Connection closed by foreign host.
+
