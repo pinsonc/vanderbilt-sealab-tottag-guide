@@ -1,0 +1,178 @@
+sealab@sealab-Ubuntu:~$ telnet localhost 9201
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+SEGGER J-Link V6.51e (beta) - Real time terminal output
+SEGGER J-Link EDU V10.1, SN=260117162
+Process: JLinkExe
+
+----------------------------------------------
+INFO: Initializing nRF...
+WARNING: Chip experienced a reset with reason 1
+INFO: Initialized software modules
+DEBUG: Bluetooth address: c0:98:e5:42:00:27
+INFO: Initialized software services
+INFO: Initialized buses
+INFO: Time is 05:45:08, 2019/11/13
+INFO: Initialized hardware services
+INFO: Started scanning...
+INFO: Started broadcasting BLE advertisements...
+DEBUG: Discovered address: c0:98:e5:42:00:26
+INFO: Switched Master EUI from 00 to FF
+
+----------------------------------------------
+INFO: Initializing nRF...
+WARNING: Chip experienced a reset with reason 4
+INFO: Initialized software modules
+DEBUG: Bluetooth address: c0:98:e5:42:00:27
+INFO: Initialized software services
+INFO: Initialized buses
+INFO: Time is 05:45:51, 2019/11/13
+INFO: Initialized hardware services
+INFO: Started scanning...
+INFO: Started broadcasting BLE advertisements...
+INFO: Discovered new node 38 without network
+DEBUG: Discovered address: c0:98:e5:42:00:26
+INFO: Switched Master EUI from 00 to 27
+INFO: Finished initialization
+INFO: Waiting for discovery of other devices...
+INFO: Starting node
+INFO: Role - HYBRID Master
+INFO: Started the module...
+INFO: Interrupt with reason 3, changing master EUI to 39
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 0
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -362
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -168
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -237
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -296
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -287
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -244
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -230
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -249
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -297
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -252
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -164
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -207
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -222
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -232
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -182
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -211
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -204
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -157
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -136
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -182
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -252
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -242
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -281
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -267
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -177
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -286
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -224
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -210
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -232
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -184
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -193
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -184
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -133
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -126
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -303
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -282
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -319
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -322
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -289
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -377
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -382
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -397
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -254
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -242
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -289
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -66
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range -341
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 170
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 252
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 499
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 349
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 1082
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 983
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 1031
+INFO: Distributing global timestamp 1573624011
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 942
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 992
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 1037
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 1007
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 1082
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 968
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 950
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 1020
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 26 with range 986
+INFO: Discovered new node 38 without network
+INFO: Discovered new node 38 without network
+INFO: Discovered new node 38 without network
+Connection closed by foreign host.

@@ -1,0 +1,435 @@
+----------------------------------------------
+INFO: Initializing nRF...
+WARNING: Chip experienced a reset with reason 1
+INFO: Initialized software modules
+DEBUG: Bluetooth address: c0:98:e5:42:00:26
+INFO: Initialized software services
+INFO: Initialized buses
+INFO: Time is 16:21:41, 2019/10/17
+INFO: Initialized hardware services
+INFO: Started scanning...
+INFO: Started broadcasting BLE advertisements...
+DEBUG: Discovered address: c0:98:e5:42:00:27
+INFO: Switched Master EUI from 00 to 27
+
+----------------------------------------------
+INFO: Initializing nRF...
+WARNING: Chip experienced a reset with reason 4
+INFO: Initialized software modules
+DEBUG: Bluetooth address: c0:98:e5:42:00:26
+INFO: Initialized software services
+INFO: Initialized buses
+INFO: Time is 16:23:40, 2019/10/17
+INFO: Initialized hardware services
+INFO: Started scanning...
+INFO: Started broadcasting BLE advertisements...
+DEBUG: Discovered address: c0:98:e5:42:00:27
+INFO: Switched Master EUI from 00 to 27
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 21
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 28
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 16
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -37
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 32
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 52
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -11
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 36
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 23
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -11
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -22
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 75
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 35
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -14
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -23
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 53
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 22
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -19
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 54
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -3
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -11
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 17
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 48
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 52
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 5
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 107
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 117
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 97
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 114
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 96
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 147
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 192
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 167
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 307
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 236
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 226
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 213
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 196
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 201
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 245
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 321
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1080
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1627
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1819
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1891
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1469
+INFO: Updated current epoch time: 1573622445
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 711
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 112
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 217
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 402
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 362
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 87
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 37
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 86
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 33
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 59
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 37
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 35
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 16
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -36
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -68
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -72
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -51
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -12
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 22
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -60
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 4
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -10
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 13
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -11
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -71
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -9
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -13
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -50
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -18
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -43
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 48
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -23
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 14
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -32
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -73
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -11
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -36
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -77
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 2
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 0
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -53
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range -21
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 23
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 22
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 449
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1061
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1109
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1116
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1304
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1230
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1336
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1232
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1299
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1325
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1266
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1250
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1253
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1299
+INFO: Updated current epoch time: 1573622505
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1313
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1321
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1190
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1259
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1263
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1308
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1260
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1261
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1320
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1305
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1182
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1210
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1150
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1193
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1189
+ERROR: SD card not inserted!
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1217
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1238
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1262
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1218
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1138
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1224
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1192
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1380
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1277
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1223
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1166
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1192
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1293
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1212
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1178
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1213
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1142
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1235
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1190
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1263
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1159
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1246
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1158
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1241
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1166
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1232
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1225
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1171
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1213
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1192
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1236
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1197
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1199
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1168
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1250
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1186
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1158
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1172
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1124
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1209
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1229
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1193
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1246
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1121
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1174
+INFO: Updated current epoch time: 1573622565
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1179
+ERROR: Insufficient buffer space left! Available 5120, used 5082, required 42
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor 27 with range 1272
+

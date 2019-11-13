@@ -216,8 +216,8 @@ After reconnecting the nodes ranges were not logged. We got expected `interrupte
 
 ### Debug output
 
-* [STM](11-12-2019/test12/t12_STM_output_26.txt)
-* [nRF](11-12-2019/test12/t12_nRF_output_26.txt)
+* [STM](11-13-2019/test12/t12_STM_output_26.txt)
+* [nRF](11-13-2019/test12/t12_nRF_output_26.txt)
 
 ### Oberservations
 
@@ -237,11 +237,51 @@ Working as intended!
 
 ### Debug output
 
-* [STM](11-12-2019/test13/t13_STM_output_26.txt)
-* [nRF](11-12-2019/test13/t13_nRF_output_26.txt)
+* [STM](11-13-2019/test13/t13_STM_output_26.txt)
+* [nRF](11-13-2019/test13/t13_nRF_output_26.txt)
 
 ### Oberservations
 
 2A still disappoints
 
 ---
+
+## Test 14
+
+### Parameters
+
+* Nodes 27 and 2A
+* Code was **not** reflashed onto either device
+* J-Link debuggers were connected to node 27
+* J-Link `S/N: 260...` to the nRF, `S/N: 269...` to the STM
+* Nodes were turned off and on again since the last test
+
+### Debug output
+
+* [STM](11-13-2019/test14/t14_STM_output_27.txt)
+* [nRF](11-13-2019/test14/t14_nRF_output_27.txt)
+
+### Oberservations
+
+2A still disappoints. No change from tests with 26 and 2A
+
+---
+
+## Test 15
+
+### Parameters
+
+* Nodes 27 and 26
+* Code was **not** reflashed onto either device
+* J-Link debuggers were connected to node 27
+* J-Link `S/N: 260...` to the nRF, `S/N: 269...` to the STM
+* Nodes were turned off and on again since the last test
+
+### Debug output
+
+* [STM](11-13-2019/test15/t15_STM_output_27.txt)
+* [nRF](11-13-2019/test15/t15_nRF_output_27.txt)
+
+### Oberservations
+
+2A still disappoints. No change from tests with 26 and 2A

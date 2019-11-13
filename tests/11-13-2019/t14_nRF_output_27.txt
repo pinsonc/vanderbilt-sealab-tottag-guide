@@ -1,0 +1,94 @@
+sealab@sealab-Ubuntu:~$ telnet localhost 9201
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+SEGGER J-Link V6.51e (beta) - Real time terminal output
+SEGGER J-Link EDU V10.1, SN=260117162
+Process: JLinkExe
+
+----------------------------------------------
+INFO: Initializing nRF...
+INFO: Initialized software modules
+DEBUG: Bluetooth address: c0:98:e5:42:00:27
+INFO: Initialized software services
+INFO: Initialized buses
+INFO: Time is 05:42:30, 2019/11/13
+INFO: Initialized hardware services
+INFO: Started scanning...
+INFO: Started broadcasting BLE advertisements...
+INFO: Discovered new node 42 without network
+DEBUG: Discovered address: c0:98:e5:42:00:2a
+INFO: Switched Master EUI from 00 to 2A
+
+----------------------------------------------
+INFO: Initializing nRF...
+WARNING: Chip experienced a reset with reason 4
+INFO: Initialized software modules
+DEBUG: Bluetooth address: c0:98:e5:42:00:27
+INFO: Initialized software services
+INFO: Initialized buses
+INFO: Time is 05:44:11, 2019/11/13
+INFO: Initialized hardware services
+INFO: Started scanning...
+INFO: Started broadcasting BLE advertisements...
+DEBUG: Discovered address: c0:98:e5:42:00:2a
+INFO: Switched Master EUI from 00 to FF
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+INFO: Interrupt with reason 1, included number of anchors: 1
+DEBUG: Nr 1: Anchor FF with range ERROR_TOO_FEW_RANGES
+Connection closed by foreign host.

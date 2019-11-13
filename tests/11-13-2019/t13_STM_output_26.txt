@@ -1,0 +1,1047 @@
+----------------------------------------------
+INFO: Initialized RTT...
+INFO: Successfully loaded calibration values with EUI 38
+DEBUG: Calibration values are:
+DEBUG: 32975		32872		32910		
+DEBUG: 32930		32744		32910		
+DEBUG: 32999		32855		32943		
+INFO: Connecting to host interface...
+
+----------------------------------------------
+INFO: Initialized RTT...
+INFO: Successfully loaded calibration values with EUI 38
+DEBUG: Calibration values are:
+DEBUG: 32975		32872		32910		
+DEBUG: 32930		32744		32910		
+DEBUG: 32999		32855		32943		
+INFO: Connecting to host interface...
+INFO: Op code 2: Config
+INFO: Initialized as HYBRID
+WARNING: Not in sync with Glossy master (yet); current counter: 10
+WARNING: Not in sync with Glossy master (yet); current counter: 20
+WARNING: Not in sync with Glossy master (yet); current counter: 30
+INFO: Scheduled nodes this round: I 2, R 2
+WARNING: Not in sync with Glossy master (yet); current counter: 40
+WARNING: Not in sync with Glossy master (yet); current counter: 50
+WARNING: Not in sync with Glossy master (yet); current counter: 60
+WARNING: Not in sync with Glossy master (yet); current counter: 70
+WARNING: Not in sync with Glossy master (yet); current counter: 80
+WARNING: Not in sync with Glossy master (yet); current counter: 90
+WARNING: Not in sync with Glossy master (yet); current counter: 100
+WARNING: Not in sync with Glossy master (yet); current counter: 110
+WARNING: Not in sync with Glossy master (yet); current counter: 120
+WARNING: Not in sync with Glossy master (yet); current counter: 130
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77250
+INFO: Disregard range: 76918
+INFO: Disregard range: 77283
+INFO: Disregard range: 77236
+INFO: Disregard range: 76940
+INFO: Disregard range: 77300
+INFO: Disregard range: 77362
+INFO: Disregard range: 76968
+INFO: Disregard range: 77249
+INFO: Disregard range: 77580
+INFO: Disregard range: 77346
+INFO: Disregard range: 77650
+INFO: Disregard range: 77716
+INFO: Disregard range: 77537
+INFO: Disregard range: 77963
+INFO: Disregard range: 77601
+INFO: Disregard range: 77512
+INFO: Disregard range: 77600
+INFO: Disregard range: 77367
+INFO: Disregard range: 76968
+INFO: Disregard range: 77469
+INFO: Disregard range: 77435
+INFO: Disregard range: 76985
+INFO: Disregard range: 77317
+INFO: Disregard range: 77486
+INFO: Disregard range: 77088
+INFO: Disregard range: 77476
+INFO: Disregard range: 77255
+INFO: Disregard range: 76969
+INFO: Disregard range: 77228
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77253
+INFO: Disregard range: 76882
+INFO: Disregard range: 77240
+INFO: Disregard range: 77223
+INFO: Disregard range: 76963
+INFO: Disregard range: 77293
+INFO: Disregard range: 77362
+INFO: Disregard range: 76942
+INFO: Disregard range: 77221
+INFO: Disregard range: 77578
+INFO: Disregard range: 77341
+INFO: Disregard range: 77629
+INFO: Disregard range: 77702
+INFO: Disregard range: 77512
+INFO: Disregard range: 77875
+INFO: Disregard range: 77610
+INFO: Disregard range: 77495
+INFO: Disregard range: 77576
+INFO: Disregard range: 77345
+INFO: Disregard range: 76921
+INFO: Disregard range: 77476
+INFO: Disregard range: 77468
+INFO: Disregard range: 76922
+INFO: Disregard range: 77304
+INFO: Disregard range: 77471
+INFO: Disregard range: 76985
+INFO: Disregard range: 77494
+INFO: Disregard range: 77243
+INFO: Disregard range: 76851
+INFO: Disregard range: 77281
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77262
+INFO: Disregard range: 76930
+INFO: Disregard range: 77303
+INFO: Disregard range: 77222
+INFO: Disregard range: 76911
+INFO: Disregard range: 77304
+INFO: Disregard range: 77346
+INFO: Disregard range: 76937
+INFO: Disregard range: 77264
+INFO: Disregard range: 77632
+INFO: Disregard range: 77359
+INFO: Disregard range: 77681
+INFO: Disregard range: 77736
+INFO: Disregard range: 77595
+INFO: Disregard range: 77710
+INFO: Disregard range: 77610
+INFO: Disregard range: 77548
+INFO: Disregard range: 77565
+INFO: Disregard range: 77316
+INFO: Disregard range: 77025
+INFO: Disregard range: 77398
+INFO: Disregard range: 77401
+INFO: Disregard range: 76988
+INFO: Disregard range: 77300
+INFO: Disregard range: 77412
+INFO: Disregard range: 77078
+INFO: Disregard range: 77410
+INFO: Disregard range: 77291
+INFO: Disregard range: 76938
+INFO: Disregard range: 77266
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77240
+INFO: Disregard range: 76878
+INFO: Disregard range: 77279
+INFO: Disregard range: 77220
+INFO: Disregard range: 76922
+INFO: Disregard range: 77229
+INFO: Disregard range: 77318
+INFO: Disregard range: 76969
+INFO: Disregard range: 77262
+INFO: Disregard range: 77572
+INFO: Disregard range: 77378
+INFO: Disregard range: 77638
+INFO: Disregard range: 77684
+INFO: Disregard range: 77489
+INFO: Disregard range: 77496
+INFO: Disregard range: 77592
+INFO: Disregard range: 77492
+INFO: Disregard range: 77578
+INFO: Disregard range: 77357
+INFO: Disregard range: 76914
+INFO: Disregard range: 77409
+INFO: Disregard range: 77425
+INFO: Disregard range: 76898
+INFO: Disregard range: 77322
+INFO: Disregard range: 77409
+INFO: Disregard range: 77074
+INFO: Disregard range: 77461
+INFO: Disregard range: 77271
+INFO: Disregard range: 76852
+INFO: Disregard range: 77273
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77256
+INFO: Disregard range: 76936
+INFO: Disregard range: 77200
+INFO: Disregard range: 77178
+INFO: Disregard range: 76959
+INFO: Disregard range: 77238
+INFO: Disregard range: 77358
+INFO: Disregard range: 76971
+INFO: Disregard range: 77239
+INFO: Disregard range: 77568
+INFO: Disregard range: 77359
+INFO: Disregard range: 77665
+INFO: Disregard range: 77672
+INFO: Disregard range: 77520
+INFO: Disregard range: 78121
+INFO: Disregard range: 77640
+INFO: Disregard range: 77473
+INFO: Disregard range: 77573
+INFO: Disregard range: 77322
+INFO: Disregard range: 76949
+INFO: Disregard range: 77443
+INFO: Disregard range: 77458
+INFO: Disregard range: 76907
+INFO: Disregard range: 77298
+INFO: Disregard range: 77417
+INFO: Disregard range: 76950
+INFO: Disregard range: 77397
+INFO: Disregard range: 77235
+INFO: Disregard range: 76880
+INFO: Disregard range: 77277
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77220
+INFO: Disregard range: 76860
+INFO: Disregard range: 77286
+INFO: Disregard range: 77177
+INFO: Disregard range: 76825
+INFO: Disregard range: 77171
+INFO: Disregard range: 77298
+INFO: Disregard range: 76951
+INFO: Disregard range: 77264
+INFO: Disregard range: 77562
+INFO: Disregard range: 77360
+INFO: Disregard range: 77664
+INFO: Disregard range: 77688
+INFO: Disregard range: 77462
+INFO: Disregard range: 77973
+INFO: Disregard range: 77573
+INFO: Disregard range: 77474
+INFO: Disregard range: 77623
+INFO: Disregard range: 77314
+INFO: Disregard range: 76976
+INFO: Disregard range: 77393
+INFO: Disregard range: 77438
+INFO: Disregard range: 76955
+INFO: Disregard range: 77245
+INFO: Disregard range: 77489
+INFO: Disregard range: 76916
+INFO: Disregard range: 77445
+INFO: Disregard range: 77252
+INFO: Disregard range: 76895
+INFO: Disregard range: 77219
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77227
+INFO: Disregard range: 76889
+INFO: Disregard range: 77210
+INFO: Disregard range: 77217
+INFO: Disregard range: 76920
+INFO: Disregard range: 77227
+INFO: Disregard range: 77306
+INFO: Disregard range: 76924
+INFO: Disregard range: 77217
+INFO: Disregard range: 77599
+INFO: Disregard range: 77391
+INFO: Disregard range: 77726
+INFO: Disregard range: 77720
+INFO: Disregard range: 77502
+INFO: Disregard range: 78030
+INFO: Disregard range: 77624
+INFO: Disregard range: 77430
+INFO: Disregard range: 77587
+INFO: Disregard range: 77328
+INFO: Disregard range: 76937
+INFO: Disregard range: 77493
+INFO: Disregard range: 77467
+INFO: Disregard range: 76889
+INFO: Disregard range: 77271
+INFO: Disregard range: 77434
+INFO: Disregard range: 76963
+INFO: Disregard range: 77415
+INFO: Disregard range: 77216
+INFO: Disregard range: 76849
+INFO: Disregard range: 77260
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77218
+INFO: Disregard range: 76854
+INFO: Disregard range: 77178
+INFO: Disregard range: 77135
+INFO: Disregard range: 76816
+INFO: Disregard range: 77276
+INFO: Disregard range: 77258
+INFO: Disregard range: 76949
+INFO: Disregard range: 77183
+INFO: Disregard range: 77515
+INFO: Disregard range: 77300
+INFO: Disregard range: 77717
+INFO: Disregard range: 77633
+INFO: Disregard range: 77535
+INFO: Disregard range: 77568
+INFO: Disregard range: 77642
+INFO: Disregard range: 77432
+INFO: Disregard range: 77581
+INFO: Disregard range: 77390
+INFO: Disregard range: 76936
+INFO: Disregard range: 77386
+INFO: Disregard range: 77409
+INFO: Disregard range: 76931
+INFO: Disregard range: 77282
+INFO: Disregard range: 77377
+INFO: Disregard range: 77091
+INFO: Disregard range: 77405
+INFO: Disregard range: 77184
+INFO: Disregard range: 76889
+INFO: Disregard range: 77176
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77247
+INFO: Disregard range: 76865
+INFO: Disregard range: 77249
+INFO: Disregard range: 77249
+INFO: Disregard range: 76973
+INFO: Disregard range: 77208
+INFO: Disregard range: 77294
+INFO: Disregard range: 76990
+INFO: Disregard range: 77239
+INFO: Disregard range: 77627
+INFO: Disregard range: 77375
+INFO: Disregard range: 77745
+INFO: Disregard range: 77732
+INFO: Disregard range: 77564
+INFO: Disregard range: 77691
+INFO: Disregard range: 77672
+INFO: Disregard range: 77481
+INFO: Disregard range: 77579
+INFO: Disregard range: 77403
+INFO: Disregard range: 76902
+INFO: Disregard range: 77502
+INFO: Disregard range: 77432
+INFO: Disregard range: 76954
+INFO: Disregard range: 77287
+INFO: Disregard range: 77378
+INFO: Disregard range: 76966
+INFO: Disregard range: 77379
+INFO: Disregard range: 77233
+INFO: Disregard range: 76859
+INFO: Disregard range: 77268
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77254
+INFO: Disregard range: 76898
+INFO: Disregard range: 77239
+INFO: Disregard range: 77163
+INFO: Disregard range: 76919
+INFO: Disregard range: 77255
+INFO: Disregard range: 77294
+INFO: Disregard range: 76951
+INFO: Disregard range: 77208
+INFO: Disregard range: 77609
+INFO: Disregard range: 77299
+INFO: Disregard range: 77743
+INFO: Disregard range: 77767
+INFO: Disregard range: 77522
+INFO: Disregard range: 78009
+INFO: Disregard range: 77618
+INFO: Disregard range: 77510
+INFO: Disregard range: 77650
+INFO: Disregard range: 77397
+INFO: Disregard range: 76810
+INFO: Disregard range: 77517
+INFO: Disregard range: 77427
+INFO: Disregard range: 76981
+INFO: Disregard range: 77275
+INFO: Disregard range: 77449
+INFO: Disregard range: 76937
+INFO: Disregard range: 77471
+INFO: Disregard range: 77282
+INFO: Disregard range: 76907
+INFO: Disregard range: 77202
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77267
+INFO: Disregard range: 76899
+INFO: Disregard range: 77153
+INFO: Disregard range: 77153
+INFO: Disregard range: 76877
+INFO: Disregard range: 77201
+INFO: Disregard range: 77260
+INFO: Disregard range: 76989
+INFO: Disregard range: 77196
+INFO: Disregard range: 77565
+INFO: Disregard range: 77323
+INFO: Disregard range: 77680
+INFO: Disregard range: 77700
+INFO: Disregard range: 77485
+INFO: Disregard range: 77762
+INFO: Disregard range: 77617
+INFO: Disregard range: 77487
+INFO: Disregard range: 77600
+INFO: Disregard range: 77400
+INFO: Disregard range: 76876
+INFO: Disregard range: 77336
+INFO: Disregard range: 77435
+INFO: Disregard range: 76967
+INFO: Disregard range: 77286
+INFO: Disregard range: 77400
+INFO: Disregard range: 77049
+INFO: Disregard range: 77439
+INFO: Disregard range: 77266
+INFO: Disregard range: 76859
+INFO: Disregard range: 77194
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77269
+INFO: Disregard range: 76893
+INFO: Disregard range: 77167
+INFO: Disregard range: 77164
+INFO: Disregard range: 76903
+INFO: Disregard range: 77243
+INFO: Disregard range: 77293
+INFO: Disregard range: 76934
+INFO: Disregard range: 77236
+INFO: Disregard range: 77569
+INFO: Disregard range: 77328
+INFO: Disregard range: 77639
+INFO: Disregard range: 77670
+INFO: Disregard range: 77545
+INFO: Disregard range: 77636
+INFO: Disregard range: 77628
+INFO: Disregard range: 77438
+INFO: Disregard range: 77538
+INFO: Disregard range: 77251
+INFO: Disregard range: 76929
+INFO: Disregard range: 77344
+INFO: Disregard range: 77303
+INFO: Disregard range: 76996
+INFO: Disregard range: 77330
+INFO: Disregard range: 77483
+INFO: Disregard range: 77073
+INFO: Disregard range: 77356
+INFO: Disregard range: 77245
+INFO: Disregard range: 76895
+INFO: Disregard range: 77189
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77266
+INFO: Disregard range: 76860
+INFO: Disregard range: 77241
+INFO: Disregard range: 77157
+INFO: Disregard range: 76906
+INFO: Disregard range: 77160
+INFO: Disregard range: 77322
+INFO: Disregard range: 77005
+INFO: Disregard range: 77240
+INFO: Disregard range: 77577
+INFO: Disregard range: 77406
+INFO: Disregard range: 77683
+INFO: Disregard range: 77713
+INFO: Disregard range: 77518
+INFO: Disregard range: 77645
+INFO: Disregard range: 77594
+INFO: Disregard range: 77441
+INFO: Disregard range: 77601
+INFO: Disregard range: 77346
+INFO: Disregard range: 76770
+INFO: Disregard range: 77372
+INFO: Disregard range: 77419
+INFO: Disregard range: 76952
+INFO: Disregard range: 77351
+INFO: Disregard range: 77410
+INFO: Disregard range: 77026
+INFO: Disregard range: 77421
+INFO: Disregard range: 77239
+INFO: Disregard range: 76885
+INFO: Disregard range: 77243
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77230
+INFO: Disregard range: 76903
+INFO: Disregard range: 77260
+INFO: Disregard range: 77231
+INFO: Disregard range: 76964
+INFO: Disregard range: 77255
+INFO: Disregard range: 77289
+INFO: Disregard range: 76877
+INFO: Disregard range: 77271
+INFO: Disregard range: 77607
+INFO: Disregard range: 77396
+INFO: Disregard range: 77687
+INFO: Disregard range: 77664
+INFO: Disregard range: 77510
+INFO: Disregard range: 77571
+INFO: Disregard range: 77594
+INFO: Disregard range: 77500
+INFO: Disregard range: 77645
+INFO: Disregard range: 77379
+INFO: Disregard range: 76972
+INFO: Disregard range: 77380
+INFO: Disregard range: 77417
+INFO: Disregard range: 76948
+INFO: Disregard range: 77290
+INFO: Disregard range: 77432
+INFO: Disregard range: 76916
+INFO: Disregard range: 77423
+INFO: Disregard range: 77244
+INFO: Disregard range: 76917
+INFO: Disregard range: 77232
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77262
+INFO: Disregard range: 76933
+INFO: Disregard range: 77203
+INFO: Disregard range: 77262
+INFO: Disregard range: 76904
+INFO: Disregard range: 77239
+INFO: Disregard range: 77295
+INFO: Disregard range: 76867
+INFO: Disregard range: 77226
+INFO: Disregard range: 77565
+INFO: Disregard range: 77357
+INFO: Disregard range: 77589
+INFO: Disregard range: 77625
+INFO: Disregard range: 77601
+INFO: Disregard range: 77589
+INFO: Disregard range: 77629
+INFO: Disregard range: 77412
+INFO: Disregard range: 77597
+INFO: Disregard range: 77315
+INFO: Disregard range: 76840
+INFO: Disregard range: 77485
+INFO: Disregard range: 77393
+INFO: Disregard range: 76951
+INFO: Disregard range: 77286
+INFO: Disregard range: 77449
+INFO: Disregard range: 76941
+INFO: Disregard range: 77469
+INFO: Disregard range: 77242
+INFO: Disregard range: 76879
+INFO: Disregard range: 77277
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77287
+INFO: Disregard range: 76916
+INFO: Disregard range: 77246
+INFO: Disregard range: 77215
+INFO: Disregard range: 76955
+INFO: Disregard range: 77243
+INFO: Disregard range: 77270
+INFO: Disregard range: 76973
+INFO: Disregard range: 77284
+INFO: Disregard range: 77618
+INFO: Disregard range: 77405
+INFO: Disregard range: 77646
+INFO: Disregard range: 77771
+INFO: Disregard range: 77525
+INFO: Disregard range: 77503
+INFO: Disregard range: 77613
+INFO: Disregard range: 77475
+INFO: Disregard range: 77617
+INFO: Disregard range: 77382
+INFO: Disregard range: 76962
+INFO: Disregard range: 77428
+INFO: Disregard range: 77435
+INFO: Disregard range: 76926
+INFO: Disregard range: 77200
+INFO: Disregard range: 77452
+INFO: Disregard range: 77079
+INFO: Disregard range: 77437
+INFO: Disregard range: 77266
+INFO: Disregard range: 76926
+INFO: Disregard range: 77258
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77267
+INFO: Disregard range: 76880
+INFO: Disregard range: 77228
+INFO: Disregard range: 77215
+INFO: Disregard range: 76846
+INFO: Disregard range: 77156
+INFO: Disregard range: 77313
+INFO: Disregard range: 76813
+INFO: Disregard range: 77184
+INFO: Disregard range: 77583
+INFO: Disregard range: 77378
+INFO: Disregard range: 77646
+INFO: Disregard range: 77695
+INFO: Disregard range: 77485
+INFO: Disregard range: 77547
+INFO: Disregard range: 77571
+INFO: Disregard range: 77465
+INFO: Disregard range: 77574
+INFO: Disregard range: 77341
+INFO: Disregard range: 76860
+INFO: Disregard range: 77377
+INFO: Disregard range: 77401
+INFO: Disregard range: 76989
+INFO: Disregard range: 77304
+INFO: Disregard range: 77442
+INFO: Disregard range: 77087
+INFO: Disregard range: 77473
+INFO: Disregard range: 77244
+INFO: Disregard range: 76898
+INFO: Disregard range: 77233
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77271
+INFO: Disregard range: 76907
+INFO: Disregard range: 77288
+INFO: Disregard range: 77260
+INFO: Disregard range: 76918
+INFO: Disregard range: 77177
+INFO: Disregard range: 77305
+INFO: Disregard range: 76983
+INFO: Disregard range: 77246
+INFO: Disregard range: 77635
+INFO: Disregard range: 77359
+INFO: Disregard range: 77688
+INFO: Disregard range: 77750
+INFO: Disregard range: 77545
+INFO: Disregard range: 77522
+INFO: Disregard range: 77625
+INFO: Disregard range: 77514
+INFO: Disregard range: 77556
+INFO: Disregard range: 77296
+INFO: Disregard range: 76982
+INFO: Disregard range: 77377
+INFO: Disregard range: 77391
+INFO: Disregard range: 76947
+INFO: Disregard range: 77243
+INFO: Disregard range: 77427
+INFO: Disregard range: 76945
+INFO: Disregard range: 77414
+INFO: Disregard range: 77255
+INFO: Disregard range: 76886
+INFO: Disregard range: 77324
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77257
+INFO: Disregard range: 76898
+INFO: Disregard range: 77273
+INFO: Disregard range: 77203
+INFO: Disregard range: 76932
+INFO: Disregard range: 77204
+INFO: Disregard range: 77305
+INFO: Disregard range: 76921
+INFO: Disregard range: 77161
+INFO: Disregard range: 77554
+INFO: Disregard range: 77382
+INFO: Disregard range: 77664
+INFO: Disregard range: 77702
+INFO: Disregard range: 77492
+INFO: Disregard range: 77737
+INFO: Disregard range: 77648
+INFO: Disregard range: 77433
+INFO: Disregard range: 77616
+INFO: Disregard range: 77412
+INFO: Disregard range: 76934
+INFO: Disregard range: 77408
+INFO: Disregard range: 77446
+INFO: Disregard range: 76936
+INFO: Disregard range: 77321
+INFO: Disregard range: 77482
+INFO: Disregard range: 77004
+INFO: Disregard range: 77375
+INFO: Disregard range: 77277
+INFO: Disregard range: 76922
+INFO: Disregard range: 77228
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77237
+INFO: Disregard range: 76869
+INFO: Disregard range: 77264
+INFO: Disregard range: 77213
+INFO: Disregard range: 76966
+INFO: Disregard range: 77239
+INFO: Disregard range: 77288
+INFO: Disregard range: 77003
+INFO: Disregard range: 77238
+INFO: Disregard range: 77585
+INFO: Disregard range: 77394
+INFO: Disregard range: 77653
+INFO: Disregard range: 77753
+INFO: Disregard range: 77567
+INFO: Disregard range: 78144
+INFO: Disregard range: 77643
+INFO: Disregard range: 77438
+INFO: Disregard range: 77626
+INFO: Disregard range: 77417
+INFO: Disregard range: 76870
+INFO: Disregard range: 77415
+INFO: Disregard range: 77420
+INFO: Disregard range: 77018
+INFO: Disregard range: 77211
+INFO: Disregard range: 77471
+INFO: Disregard range: 77134
+INFO: Disregard range: 77435
+INFO: Disregard range: 77277
+INFO: Disregard range: 76898
+INFO: Disregard range: 77196
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77278
+INFO: Disregard range: 76933
+INFO: Disregard range: 77206
+INFO: Disregard range: 77221
+INFO: Disregard range: 76856
+INFO: Disregard range: 77176
+INFO: Disregard range: 77385
+INFO: Disregard range: 76964
+INFO: Disregard range: 77232
+INFO: Disregard range: 77607
+INFO: Disregard range: 77407
+INFO: Disregard range: 77717
+INFO: Disregard range: 77733
+INFO: Disregard range: 77556
+INFO: Disregard range: 77674
+INFO: Disregard range: 77698
+INFO: Disregard range: 77465
+INFO: Disregard range: 77620
+INFO: Disregard range: 77411
+INFO: Disregard range: 76958
+INFO: Disregard range: 77479
+INFO: Disregard range: 77428
+INFO: Disregard range: 76927
+INFO: Disregard range: 77219
+INFO: Disregard range: 77488
+INFO: Disregard range: 77100
+INFO: Disregard range: 77420
+INFO: Disregard range: 77270
+INFO: Disregard range: 76915
+INFO: Disregard range: 77231
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77264
+INFO: Disregard range: 76899
+INFO: Disregard range: 77254
+INFO: Disregard range: 77230
+INFO: Disregard range: 76901
+INFO: Disregard range: 77298
+INFO: Disregard range: 77374
+INFO: Disregard range: 76876
+INFO: Disregard range: 77264
+INFO: Disregard range: 77604
+INFO: Disregard range: 77426
+INFO: Disregard range: 77753
+INFO: Disregard range: 77771
+INFO: Disregard range: 77546
+INFO: Disregard range: 77685
+INFO: Disregard range: 77660
+INFO: Disregard range: 77481
+INFO: Disregard range: 77663
+INFO: Disregard range: 77387
+INFO: Disregard range: 76908
+INFO: Disregard range: 77385
+INFO: Disregard range: 77407
+INFO: Disregard range: 76984
+INFO: Disregard range: 77255
+INFO: Disregard range: 77471
+INFO: Disregard range: 77011
+INFO: Disregard range: 77464
+INFO: Disregard range: 77257
+INFO: Disregard range: 76914
+INFO: Disregard range: 77247
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77243
+INFO: Disregard range: 76899
+INFO: Disregard range: 77199
+INFO: Disregard range: 77176
+INFO: Disregard range: 76952
+INFO: Disregard range: 77197
+INFO: Disregard range: 77302
+INFO: Disregard range: 77045
+INFO: Disregard range: 77257
+INFO: Disregard range: 77599
+INFO: Disregard range: 77342
+INFO: Disregard range: 77652
+INFO: Disregard range: 77705
+INFO: Disregard range: 77538
+INFO: Disregard range: 77594
+INFO: Disregard range: 77642
+INFO: Disregard range: 77469
+INFO: Disregard range: 77582
+INFO: Disregard range: 77331
+INFO: Disregard range: 76929
+INFO: Disregard range: 77417
+INFO: Disregard range: 77479
+INFO: Disregard range: 76987
+INFO: Disregard range: 77246
+INFO: Disregard range: 77426
+INFO: Disregard range: 77061
+INFO: Disregard range: 77409
+INFO: Disregard range: 77222
+INFO: Disregard range: 76909
+INFO: Disregard range: 77211
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77234
+INFO: Disregard range: 76879
+INFO: Disregard range: 77193
+INFO: Disregard range: 77220
+INFO: Disregard range: 76849
+INFO: Disregard range: 77214
+INFO: Disregard range: 77286
+INFO: Disregard range: 77004
+INFO: Disregard range: 77172
+INFO: Disregard range: 77560
+INFO: Disregard range: 77334
+INFO: Disregard range: 77625
+INFO: Disregard range: 77667
+INFO: Disregard range: 77517
+INFO: Disregard range: 77929
+INFO: Disregard range: 77581
+INFO: Disregard range: 77492
+INFO: Disregard range: 77571
+INFO: Disregard range: 77337
+INFO: Disregard range: 76812
+INFO: Disregard range: 77411
+INFO: Disregard range: 77410
+INFO: Disregard range: 76951
+INFO: Disregard range: 77278
+INFO: Disregard range: 77419
+INFO: Disregard range: 76917
+INFO: Disregard range: 77423
+INFO: Disregard range: 77244
+INFO: Disregard range: 76859
+INFO: Disregard range: 77202
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77266
+INFO: Disregard range: 76850
+INFO: Disregard range: 77193
+INFO: Disregard range: 77183
+INFO: Disregard range: 76874
+INFO: Disregard range: 77203
+INFO: Disregard range: 77284
+INFO: Disregard range: 77003
+INFO: Disregard range: 77186
+INFO: Disregard range: 77537
+INFO: Disregard range: 77383
+INFO: Disregard range: 77664
+INFO: Disregard range: 77712
+INFO: Disregard range: 77469
+INFO: Disregard range: 77901
+INFO: Disregard range: 77633
+INFO: Disregard range: 77409
+INFO: Disregard range: 77606
+INFO: Disregard range: 77302
+INFO: Disregard range: 76909
+INFO: Disregard range: 77359
+INFO: Disregard range: 77373
+INFO: Disregard range: 76867
+INFO: Disregard range: 77233
+INFO: Disregard range: 77412
+INFO: Disregard range: 77043
+INFO: Disregard range: 77413
+INFO: Disregard range: 77235
+INFO: Disregard range: 76889
+INFO: Disregard range: 77185
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 8; Antenna 3 - 8
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77237
+INFO: Disregard range: 76862
+INFO: Disregard range: 77136
+INFO: Disregard range: 77214
+INFO: Disregard range: 76931
+INFO: Disregard range: 77130
+INFO: Disregard range: 77327
+INFO: Disregard range: 76847
+INFO: Disregard range: 77182
+INFO: Disregard range: 77503
+INFO: Disregard range: 77375
+INFO: Disregard range: 77644
+INFO: Disregard range: 77718
+INFO: Disregard range: 77529
+INFO: Disregard range: 77574
+INFO: Disregard range: 77581
+INFO: Disregard range: 77424
+INFO: Disregard range: 77521
+INFO: Disregard range: 77342
+INFO: Disregard range: 76885
+INFO: Disregard range: 77441
+INFO: Disregard range: 77416
+INFO: Disregard range: 76973
+INFO: Disregard range: 77257
+INFO: Disregard range: 77472
+INFO: Disregard range: 76968
+INFO: Disregard range: 77496
+INFO: Disregard range: 77231
+INFO: Disregard range: 76812
+INFO: Disregard range: 77191
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77226
+INFO: Disregard range: 76849
+INFO: Disregard range: 77263
+INFO: Disregard range: 77189
+INFO: Disregard range: 76938
+INFO: Disregard range: 77272
+INFO: Disregard range: 77279
+INFO: Disregard range: 77033
+INFO: Disregard range: 77203
+INFO: Disregard range: 77564
+INFO: Disregard range: 77355
+INFO: Disregard range: 77661
+INFO: Disregard range: 77677
+INFO: Disregard range: 77623
+INFO: Disregard range: 77671
+INFO: Disregard range: 77635
+INFO: Disregard range: 77487
+INFO: Disregard range: 77628
+INFO: Disregard range: 77364
+INFO: Disregard range: 76958
+INFO: Disregard range: 77461
+INFO: Disregard range: 77396
+INFO: Disregard range: 76938
+INFO: Disregard range: 77259
+INFO: Disregard range: 77430
+INFO: Disregard range: 77005
+INFO: Disregard range: 77475
+INFO: Disregard range: 77256
+INFO: Disregard range: 76883
+INFO: Disregard range: 77199
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77234
+INFO: Disregard range: 76923
+INFO: Disregard range: 77205
+INFO: Disregard range: 77238
+INFO: Disregard range: 76949
+INFO: Disregard range: 77259
+INFO: Disregard range: 77318
+INFO: Disregard range: 76996
+INFO: Disregard range: 77260
+INFO: Disregard range: 77611
+INFO: Disregard range: 77383
+INFO: Disregard range: 77618
+INFO: Disregard range: 77704
+INFO: Disregard range: 77603
+INFO: Disregard range: 77796
+INFO: Disregard range: 77656
+INFO: Disregard range: 77484
+INFO: Disregard range: 77663
+INFO: Disregard range: 77351
+INFO: Disregard range: 76874
+INFO: Disregard range: 77480
+INFO: Disregard range: 77462
+INFO: Disregard range: 77013
+INFO: Disregard range: 77290
+INFO: Disregard range: 77433
+INFO: Disregard range: 77012
+INFO: Disregard range: 77417
+INFO: Disregard range: 77281
+INFO: Disregard range: 76875
+INFO: Disregard range: 77205
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77218
+INFO: Disregard range: 76922
+INFO: Disregard range: 77173
+INFO: Disregard range: 77245
+INFO: Disregard range: 76943
+INFO: Disregard range: 77217
+INFO: Disregard range: 77367
+INFO: Disregard range: 76910
+INFO: Disregard range: 77222
+INFO: Disregard range: 77631
+INFO: Disregard range: 77394
+INFO: Disregard range: 77669
+INFO: Disregard range: 77733
+INFO: Disregard range: 77585
+INFO: Disregard range: 77986
+INFO: Disregard range: 77636
+INFO: Disregard range: 77475
+INFO: Disregard range: 77651
+INFO: Disregard range: 77373
+INFO: Disregard range: 76883
+INFO: Disregard range: 77420
+INFO: Disregard range: 77432
+INFO: Disregard range: 76984
+INFO: Disregard range: 77301
+INFO: Disregard range: 77468
+INFO: Disregard range: 76955
+INFO: Disregard range: 77388
+INFO: Disregard range: 77189
+INFO: Disregard range: 76878
+INFO: Disregard range: 77247
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77275
+INFO: Disregard range: 76894
+INFO: Disregard range: 77228
+INFO: Disregard range: 77178
+INFO: Disregard range: 76922
+INFO: Disregard range: 77224
+INFO: Disregard range: 77316
+INFO: Disregard range: 76938
+INFO: Disregard range: 77197
+INFO: Disregard range: 77559
+INFO: Disregard range: 77416
+INFO: Disregard range: 77586
+INFO: Disregard range: 77743
+INFO: Disregard range: 77534
+INFO: Disregard range: 77704
+INFO: Disregard range: 77640
+INFO: Disregard range: 77436
+INFO: Disregard range: 77610
+INFO: Disregard range: 77369
+INFO: Disregard range: 76912
+INFO: Disregard range: 77359
+INFO: Disregard range: 77435
+INFO: Disregard range: 76926
+INFO: Disregard range: 77256
+INFO: Disregard range: 77389
+INFO: Disregard range: 77026
+INFO: Disregard range: 77435
+INFO: Disregard range: 77291
+INFO: Disregard range: 76895
+INFO: Disregard range: 77211
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: FF; First index: 0; last index: 29
+INFO: Disregard range: 77456
+INFO: Disregard range: 77136
+INFO: Disregard range: 77611
+INFO: Disregard range: 77279
+INFO: Disregard range: 76958
+INFO: Disregard range: 77147
+INFO: Disregard range: 77511
+INFO: Disregard range: 77095
+INFO: Disregard range: 77308
+INFO: Disregard range: 77538
+INFO: Disregard range: 77493
+INFO: Disregard range: 77644
+INFO: Disregard range: 78027
+INFO: Disregard range: 77456
+INFO: Disregard range: 77519
+INFO: Disregard range: 77576
+INFO: Disregard range: 77503
+INFO: Disregard range: 77673
+

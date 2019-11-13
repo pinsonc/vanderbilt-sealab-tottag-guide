@@ -1,0 +1,628 @@
+----------------------------------------------
+INFO: Initialized RTT...
+INFO: Successfully loaded calibration values with EUI 38
+DEBUG: Calibration values are:
+DEBUG: 32975		32872		32910		
+DEBUG: 32930		32744		32910		
+DEBUG: 32999		32855		32943		
+INFO: Connecting to host interface...
+
+----------------------------------------------
+INFO: Initialized RTT...
+INFO: Successfully loaded calibration values with EUI 38
+DEBUG: Calibration values are:
+DEBUG: 32975		32872		32910		
+DEBUG: 32930		32744		32910		
+DEBUG: 32999		32855		32943		
+INFO: Connecting to host interface...
+INFO: Op code 2: Config
+INFO: Initialized as HYBRID
+WARNING: Not in sync with Glossy master (yet); current counter: 10
+WARNING: Not in sync with Glossy master (yet); current counter: 20
+WARNING: Not in sync with Glossy master (yet); current counter: 30
+INFO: Scheduled nodes this round: I 2, R 2
+WARNING: Not in sync with Glossy master (yet); current counter: 40
+WARNING: Not in sync with Glossy master (yet); current counter: 50
+WARNING: Not in sync with Glossy master (yet); current counter: 60
+WARNING: Not in sync with Glossy master (yet); current counter: 70
+WARNING: Not in sync with Glossy master (yet); current counter: 80
+WARNING: Not in sync with Glossy master (yet); current counter: 90
+WARNING: Not in sync with Glossy master (yet); current counter: 100
+WARNING: Not in sync with Glossy master (yet); current counter: 110
+WARNING: Not in sync with Glossy master (yet); current counter: 120
+WARNING: Not in sync with Glossy master (yet); current counter: 130
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 8
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: 118590
+INFO: Disregard range: 102989
+INFO: Disregard range: 120944
+INFO: Disregard range: 112417
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: 51697
+INFO: Disregard range: 74076
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 8; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: -65049
+INFO: Disregard range: -47186
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 10; Antenna 2 - 8; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: 51540
+INFO: Disregard range: -71797
+INFO: Disregard range: -56347
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 10; Antenna 2 - 8; Antenna 3 - 7
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: -28866
+INFO: Disregard range: -136919
+INFO: Disregard range: 50110
+INFO: Disregard range: 65297
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 10; Antenna 2 - 7; Antenna 3 - 8
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: -88005
+INFO: Disregard range: -72721
+INFO: Disregard range: 118460
+INFO: Disregard range: 133744
+INFO: Disregard range: 111356
+INFO: Disregard range: 119547
+INFO: Disregard range: 110492
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 10; Antenna 2 - 6; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: 154023
+INFO: Disregard range: 54757
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 7
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: -114541
+INFO: Disregard range: -121236
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+WARNING: Device is not scheduled
+WARNING: Device is not scheduled
+INFO: Device is not scheduled as INIT
+INFO: Device is not scheduled as RESP
+INFO: Scheduled nodes this round: I 1, R 1
+INFO: Sending schedule request...
+WARNING: Did not report any ranges!
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: -34493
+INFO: Disregard range: -81525
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: 60351
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 7
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: -69457
+INFO: Disregard range: -54357
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Disregard range: 65903
+INFO: Disregard range: -48788
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 7
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 11; Antenna 2 - 9; Antenna 3 - 9
+INFO: Anchor ID: 27; First index: 0; last index: 29
+INFO: Scheduled nodes this round: I 2, R 2
+INFO: Number of packets: Antenna 1 - 12; Antenna 2 - 9; Antenna 3 - 9
+
