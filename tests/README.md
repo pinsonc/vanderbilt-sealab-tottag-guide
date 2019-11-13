@@ -155,6 +155,8 @@ Our tentative goal for this test is to reflash 2A and see if we can get it worki
 
 nRF gives error TOO_FEW_RANGES and STM disregards all given ranges. **Failed short test.**
 
+---
+
 ## Test 10
 
 2A failing behind us. We are now testing results with a little bit of noise, i.e. bring them in and out of range, walking around, etc.
@@ -176,6 +178,8 @@ nRF gives error TOO_FEW_RANGES and STM disregards all given ranges. **Failed sho
 
 The nodes were successfully able to get in and out of range and connect and reconnect to each other and continue ranging. They had a range of about 2/3rds of the length of the lab workspace. **Successful short test.**
 
+---
+
 ## Test 11
 
 ### Parameters
@@ -195,3 +199,49 @@ The nodes were successfully able to get in and out of range and connect and reco
 ### Observations
 
 After reconnecting the nodes ranges were not logged. We got expected `interrupted with reason 1` but no ranges as expected after that. **Failed short test.**
+
+---
+
+# 11-13-2019
+
+## Test 12
+
+### Parameters
+
+* Nodes 26 and 27
+* Code was **not** reflashed onto either device
+* J-Link debuggers were connected to node 26
+* J-Link `S/N: 260...` to the nRF, `S/N: 269...` to the STM
+* Nodes were turned off and on again since the last test
+
+### Debug output
+
+* [STM](11-12-2019/test12/t12_STM_output_26.txt)
+* [nRF](11-12-2019/test12/t12_nRF_output_26.txt)
+
+### Oberservations
+
+Working as intended!
+
+---
+
+## Test 13
+
+### Parameters
+
+* Nodes 26 and 2A
+* Code was **not** reflashed onto either device
+* J-Link debuggers were connected to node 26
+* J-Link `S/N: 260...` to the nRF, `S/N: 269...` to the STM
+* Nodes were turned off and on again since the last test
+
+### Debug output
+
+* [STM](11-12-2019/test13/t13_STM_output_26.txt)
+* [nRF](11-12-2019/test13/t13_nRF_output_26.txt)
+
+### Oberservations
+
+2A still disappoints
+
+---
