@@ -285,3 +285,43 @@ Working as intended!
 ### Oberservations
 
 Working correctly
+
+---
+
+# 11-13-2019
+
+## Test 16
+
+### Parameters
+* Nodes 27 and 26
+* Code **was** reflashed onto both devices
+* J-Link debuggers were connected to node 26
+* J-Link `S/N: 260...` to the nRF, `S/N: 269...` to the STM
+* Nodes were turned off and on again since the last test
+
+### Debug output
+
+* [STM](11-18-2019/test16/t16_STM_output_26.txt)
+* [nRF](11-18-2019/test16/t16_nRF_output_26.txt)
+
+### Observations
+On startup, nodes were not ranging. Turned node 27 off and back on and nodes began ranging. Left range for a second and came back in and they reconnected and started ranging. Left range for 30 seconds and came back in and the nodes attempted to reconnect but failed. Complete failure as the white light started blinking on one of the nodes and they shut down. **Confusing failed short test.**
+
+## Test 17
+
+### Parameters
+* Nodes 27 and 26
+* Code was **not** reflashed onto both devices
+* J-Link debuggers were connected to node 27
+* J-Link `S/N: 260...` to the nRF, `S/N: 269...` to the STM
+* Nodes were turned off and on again since the last test
+
+### Debug output
+
+* [STM](11-18-2019/test17/t17_STM_output_27.txt)
+* [nRF](11-18-2019/test17/t17_nRF_output_27.txt)
+
+### Observations
+On startup, nodes were ranging. Left range for a second and came back in and they reconnected and started ranging. Left range for 2 and a half minutes and came back in and the nodes resumed ranging. Left range for 5 minutes and it continued ranging when we came back in. **Confusing successful short test.**
+
+Also it keeps finding a node 39 and attempting to range with it but as far as I know node 39 does not exist.
