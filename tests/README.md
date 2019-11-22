@@ -346,8 +346,8 @@ Also it keeps finding a node 39 and attempting to range with it but as far as I 
 
 ### Debug output
 
-* [STM](11-18-2019/test18/t18_STM_output_26.txt)
-* [nRF](11-18-2019/test18/t18_nRF_output_26.txt)
+* [STM](11-22-2019/test18/t18_STM_output_26.txt)
+* [nRF](11-22-2019/test18/t18_nRF_output_26.txt)
 
 ### Observations
 On startup, nodes were ranging. Left range for about 2 minutes and came back in and they reconnected and started ranging. **Successful short test.**
