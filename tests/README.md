@@ -325,3 +325,29 @@ On startup, nodes were not ranging. Turned node 27 off and back on and nodes beg
 On startup, nodes were ranging. Left range for a second and came back in and they reconnected and started ranging. Left range for 2 and a half minutes and came back in and the nodes resumed ranging. Left range for 5 minutes and it continued ranging when we came back in. **Confusing successful short test.**
 
 Also it keeps finding a node 39 and attempting to range with it but as far as I know node 39 does not exist.
+
+---
+
+# 11-22-2019
+
+## Test 18
+
+### Parameters:
+* Code modifications
+   * Added `debug_msg` that brings `_lwb_counter` at [this line](https://github.com/lab11/totternary/blob/b938123bec8264927984740f7b435ab0b9ebdbd8/software/module/firmware/glossy.c#L1474)
+   * Permanently enabled [this option](https://github.com/lab11/totternary/blob/b938123bec8264927984740f7b435ab0b9ebdbd8/software/module/firmware/glossy.c#L345)
+   * Increased the timeout time to 50 [here](https://github.com/lab11/totternary/blob/b938123bec8264927984740f7b435ab0b9ebdbd8/software/module/firmware/module_conf.h#L72)
+   * Disabled master takeover [here](https://github.com/lab11/totternary/blob/b938123bec8264927984740f7b435ab0b9ebdbd8/software/module/firmware/module_conf.h#L76)
+* Both nodes were reflashed on both the STM and nRF
+* Both nodes were turned off and back on again after flashing
+* Nodes 27 and 26
+* J-Link debuggers were connected to node 26
+* J-Link `S/N: 260...` to the nRF, `S/N: 269...` to the STM
+
+### Debug output
+
+* [STM](11-18-2019/test18/t18_STM_output_26.txt)
+* [nRF](11-18-2019/test18/t18_nRF_output_26.txt)
+
+### Observations
+On startup, nodes were ranging. Left range for about 2 minutes and came back in and they reconnected and started ranging. **Successful short test.**
