@@ -148,8 +148,8 @@ Our tentative goal for this test is to reflash 2A and see if we can get it worki
 
 ### Debug output
 
-* [STM](11-11-2019/test9/t9_STM_output_2A.txt)
-* [nRF](11-11-2019/test9/t9_nRF_output_2A.txt)
+* [STM](11-11-2019/t9_STM_output_2A.txt)
+* [nRF](11-11-2019/t9_nRF_output_2A.txt)
 
 ### Observations
 
@@ -171,8 +171,8 @@ nRF gives error TOO_FEW_RANGES and STM disregards all given ranges. **Failed sho
 
 ### Debug output
 
-* [STM](11-11-2019/test10/t10_STM_output_29.txt)
-* [nRF](11-11-2019/test10/t10_nRF_output_29.txt)
+* [STM](11-11-2019/t10_STM_output_29.txt)
+* [nRF](11-11-2019/t10_nRF_output_29.txt)
 
 ### Observations
 
@@ -193,8 +193,8 @@ The nodes were successfully able to get in and out of range and connect and reco
 
 ### Debug output
 
-* [STM](11-11-2019/test11/t11_STM_output_29.txt)
-* [nRF](11-11-2019/test11/t11_nRF_output_29.txt)
+* [STM](11-11-2019/t11_STM_output_29.txt)
+* [nRF](11-11-2019/t11_nRF_output_29.txt)
 
 ### Observations
 
@@ -216,8 +216,8 @@ After reconnecting the nodes ranges were not logged. We got expected `interrupte
 
 ### Debug output
 
-* [STM](11-13-2019/test12/t12_STM_output_26.txt)
-* [nRF](11-13-2019/test12/t12_nRF_output_26.txt)
+* [STM](11-13-2019/t12_STM_output_26.txt)
+* [nRF](11-13-2019/t12_nRF_output_26.txt)
 
 ### Oberservations
 
@@ -237,8 +237,8 @@ Working as intended!
 
 ### Debug output
 
-* [STM](11-13-2019/test13/t13_STM_output_26.txt)
-* [nRF](11-13-2019/test13/t13_nRF_output_26.txt)
+* [STM](11-13-2019/t13_STM_output_26.txt)
+* [nRF](11-13-2019/t13_nRF_output_26.txt)
 
 ### Oberservations
 
@@ -258,8 +258,8 @@ Working as intended!
 
 ### Debug output
 
-* [STM](11-13-2019/test14/t14_STM_output_27.txt)
-* [nRF](11-13-2019/test14/t14_nRF_output_27.txt)
+* [STM](11-13-2019/t14_STM_output_27.txt)
+* [nRF](11-13-2019/t14_nRF_output_27.txt)
 
 ### Oberservations
 
@@ -279,8 +279,8 @@ Working as intended!
 
 ### Debug output
 
-* [STM](11-13-2019/test15/t15_STM_output_27.txt)
-* [nRF](11-13-2019/test15/t15_nRF_output_27.txt)
+* [STM](11-13-2019/t15_STM_output_27.txt)
+* [nRF](11-13-2019/t15_nRF_output_27.txt)
 
 ### Oberservations
 
@@ -301,8 +301,8 @@ Working correctly
 
 ### Debug output
 
-* [STM](11-18-2019/test16/t16_STM_output_26.txt)
-* [nRF](11-18-2019/test16/t16_nRF_output_26.txt)
+* [STM](11-18-2019/t16_STM_output_26.txt)
+* [nRF](11-18-2019/t16_nRF_output_26.txt)
 
 ### Observations
 On startup, nodes were not ranging. Turned node 27 off and back on and nodes began ranging. Left range for a second and came back in and they reconnected and started ranging. Left range for 30 seconds and came back in and the nodes attempted to reconnect but failed. Complete failure as the white light started blinking on one of the nodes and they shut down. **Confusing failed short test.**
@@ -318,8 +318,8 @@ On startup, nodes were not ranging. Turned node 27 off and back on and nodes beg
 
 ### Debug output
 
-* [STM](11-18-2019/test17/t17_STM_output_27.txt)
-* [nRF](11-18-2019/test17/t17_nRF_output_27.txt)
+* [STM](11-18-2019/t17_STM_output_27.txt)
+* [nRF](11-18-2019/t17_nRF_output_27.txt)
 
 ### Observations
 On startup, nodes were ranging. Left range for a second and came back in and they reconnected and started ranging. Left range for 2 and a half minutes and came back in and the nodes resumed ranging. Left range for 5 minutes and it continued ranging when we came back in. **Confusing successful short test.**
@@ -346,8 +346,8 @@ Also it keeps finding a node 39 and attempting to range with it but as far as I 
 
 ### Debug output
 
-* [STM](11-22-2019/test18/t18_STM_output_26.txt)
-* [nRF](11-22-2019/test18/t18_nRF_output_26.txt)
+* [STM](11-22-2019/t18_STM_output_26.txt)
+* [nRF](11-22-2019/t18_nRF_output_26.txt)
 
 ### Observations
 On startup, nodes were ranging. Left range for about 2 minutes and came back in and they reconnected and started ranging. **Successful short test.**
