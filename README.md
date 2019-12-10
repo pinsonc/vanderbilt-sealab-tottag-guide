@@ -59,6 +59,8 @@ This next section is taken directly from the [Glossary.md](https://github.com/la
 
 >Note: Pay attention to the power switch. If the tag is plugged into USB or attached to a battery, the switch should be in the DEV ("power from device") position. If the tag is only plugged into the programmer, it should be in the 3V3 ("3.3V from the programmer box") position.
 
+Run the `flash` command with the option `FORCE_RTC_RESET=1` the first time then run it without it **a second time** when flashing the nRF.
+
 ![TagConnect Adapter Photo](images/adapter_jlink_tagconnect_annotated.svg)
 
 ## Debugging the devices
