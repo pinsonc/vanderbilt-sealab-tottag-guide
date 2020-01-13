@@ -8,10 +8,8 @@ echo $lines
 for ((i = 2 ; i <= $lines ; i++));
 do
     epoch=$(sed "${i}q;d" $1 | cut -c 1-10)
-#    echo $epoch
-    if [[ ${epoch::1} != "#" ]] # || [[ $epoch-ne#* ]]
+    if [[ ${epoch::1} != "#" ]]
     then
-#	echo $i
 	diff=$((epoch-last))
 	if [ $diff -gt 120 ] || [ $diff -lt 0 ] && [ $i != 2 ]
 	then
