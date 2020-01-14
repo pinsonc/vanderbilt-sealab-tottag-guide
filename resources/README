@@ -1,0 +1,17 @@
+Documentation for translate.sh
+
+Meant to run on log files containing an epoch time stamp in the first 10 characters of each line on the file. EX:
+
+1577175937	c0:98:e5:42:00:00:00:2d	000211
+
+To run the file, you first need to give it executable priveleges. To do this run:
+
+sudo chmod 777 translate.sh
+
+To use the script, run the script with the log file as the first argument. EX:
+
+./translate.sh [path/to/file]
+
+The script will over write the data in the file, so if you want to preserve the original, make a backup.
+
+The script translates the epoch timestamp on each line into human readable time, and it also reports any significant jumps in time in the data. Significant in this instance is greater than two minutes or any amount backwards.
